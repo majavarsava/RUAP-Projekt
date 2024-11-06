@@ -5,7 +5,11 @@
 
 int main()
 {
+<<<<<<< HEAD
     std::cout << "Pozdrav iz aplikacije od Maje Varsave, broj indeksa: 0165092043";
+=======
+    std::cout << "Pozdrav iz aplikacije od Maje Varsave";
+>>>>>>> 5d9af73 (Dodana poruka s imenom)
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
